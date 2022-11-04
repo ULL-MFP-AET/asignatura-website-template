@@ -1,3 +1,7 @@
+---
+permalink: /timetables.html
+---
+
 - [Calendarios, Horarios y Exámenes](#calendarios-horarios-y-exámenes)
   - [Calendario Académico](#calendario-académico)
   - [Calendario de la Asignatura](#calendario-de-la-asignatura)
