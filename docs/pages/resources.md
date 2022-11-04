@@ -1,4 +1,5 @@
 ---
+permalink: /resources.html
 title: "Recursos"
 aula: "Edificio de la Chocolatera. Última planta. B01.3.02"
 porteria: "922 319012"
